@@ -1,0 +1,5 @@
+Package    Version
+---------- -------
+pip        18.1   
+setuptools 40.6.2 
+suds-jurko 0.6    
